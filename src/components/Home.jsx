@@ -23,15 +23,15 @@ const Home = () => {
     <div>
       <Toaster position="bottom-right" reverseOrder={false} />
       
-      <Suspense fallback={<Loading/>}> <Header /> </Suspense> 
       <img
         className=" absolute top-0 right-0 opacity-60 -z-1"
         src={Gradient}
         alt="Gradient-img"
       />
-      <div className="h-0 w-160 absolute top-[20%] right-[-5%] shadow-[0_0_900px_20px_#f54900] -rotate-30 -z-10"></div>
+      <div className="h-0 w-[1200px] absolute top-[50%] right-[-5%] shadow-[0_0_900px_20px_#ff5e00] -rotate-30 -z-10"></div>
 
       <main>
+      <Suspense fallback={<Loading/>}> <Header /> </Suspense> 
        <Suspense > <Hero /> </Suspense> 
        <Suspense>  <About /> </Suspense> 
        <Suspense>  <Skills /> </Suspense> 

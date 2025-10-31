@@ -2,7 +2,7 @@ import myImg from "../../public/my-img.jpeg";
 
 const About = () => {
   return (
-    <section id="about" className=" py-12 px-4 relative">
+    <section id="about" className="  px-4 relative">
       <div className=" container mx-auto max-w-6xl">
         <h1
           data-aos="fade-up"

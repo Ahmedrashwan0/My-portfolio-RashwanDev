@@ -1,17 +1,16 @@
-import Spline from "@splinetool/react-spline";
 import { SiReaddotcv } from "react-icons/si";
 
 const Hero = () => {
   return (
     <main
       id="home"
-      className=" h-screen flex  flex-col lg:flex-row items-center justify-between min-h-[calc(90hv-6rem)]"
+      className=" h-screen  px-4 "
     >
       <div
         data-aos="fade-right"
         data-aos-offset="300"
         data-aos-easing="ease-in-sine"
-        className="max-w-xl ml-[5%] z-10 mt-[90%] md:mt-[60%] lg:mt-5"
+        className="container flex flex-col  items-start lg:items-center pt-[50%] lg:pt-[10%] mx-auto max-w-6xl "
        >
         <h1 className="text-3xl  sm:text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wider my-8">
           Hey! It's Ahmed Rashwan
@@ -37,20 +36,6 @@ const Hero = () => {
           </a>
         </div>
       </div>
-      {/**3D robot */}
-{/**
- * 
- * 
- */}
-       <Spline
-         data-aos="fade-zoom-in"
-         data-aos-easing="ease-in-back"
-         data-aos-delay="300"
-         data-aos-offset="0"
-         data-aos-duration="3000"
-         className=" absolute lg:top-[-30%] xl:top-[-15%] top-[-20%] bottom-0 lg:left-[25%]  sm:left-[-2%] h-full"
-         scene="https://prod.spline.design/Lcdc2t9KlMMxlbCX/scene.splinecode"
-       />
     </main>
   );
 };
