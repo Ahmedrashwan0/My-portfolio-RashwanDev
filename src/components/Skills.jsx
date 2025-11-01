@@ -12,7 +12,7 @@ const Skills = () => {
         <h1
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-3xl md:text-4xl font-bold mb-12 text-center"
         >
           My <span className="text-color">Skills</span>
@@ -21,7 +21,7 @@ const Skills = () => {
         <div
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className="flex flex-wrap justify-center gap-4 mb-12 "
         >
           {Categorys.map((e, key) => (
@@ -40,7 +40,7 @@ const Skills = () => {
         <div
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-black grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:h-auto h-96 overflow-auto"
         >
           {filteredSkills.map((e, key) => (

@@ -42,7 +42,7 @@ const Contact = () => {
         <h2
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-3xl md:text-4xl font-bold text-center mb-4"
         >
           Get In <span className=" text-color">Touch</span>
@@ -50,7 +50,7 @@ const Contact = () => {
         <p
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-center mb-12 max-w-2xl mx-auto"
         >
           Hava a project in mind or want to collaborate? Feel free to reach out.
@@ -59,7 +59,7 @@ const Contact = () => {
         <div
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" grid grid-cols-1 md:grid-cols-2 gap-12"
         >
           <div className=" order-2 md:order-1 space-x-8">

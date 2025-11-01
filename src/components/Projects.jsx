@@ -9,7 +9,7 @@ const Projects = () => {
         <h2
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-3xl md:text-4xl font-bold mb-4 text-center"
         >
           Featured <span className="text-color">Projects </span>
@@ -17,7 +17,7 @@ const Projects = () => {
         <p
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" text-center mb-12 max-w-2xl mx-auto"
         >
           Here are some of recent projects. Eech project was careflly crafed
@@ -27,7 +27,7 @@ const Projects = () => {
         <div
           data-aos="fade-up"
           data-aos-easing="linear"
-          data-aos-duration="1000"
+          data-aos-duration="500"
           className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-black"
         >
           {MyProjects.map((e, key) => (

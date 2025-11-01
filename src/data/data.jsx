@@ -132,7 +132,7 @@ const MyProjects = [
     title: "E-commerce app",
     description:
       "e-commerce website as part of a team of 7 members during the Web Masters training program. The website features interactive user interfaces and a practical user experience, built using React.js and TailwindCSS.",
-    image: "../../public/Projcets/project1.png",
+    image: "../../public/project1.png",
     tags: ["Reat JS", "Tailwind CSS"],
     demoUrl: "https://basket-ecommerce.netlify.app/",
     githubUrl: "https://github.com/shyl1/e-commerce.git",
@@ -142,7 +142,7 @@ const MyProjects = [
     title: "Restaurant app",
     description:
       " restaurant website with interactive user interfaces and a practical user experience.",
-    image: "../../public/Projcets/project2.png",
+    image: "../../public/project2.png",
     tags: ["Next JS", "Tailwind CSS"],
     demoUrl: "https://hagoga.netlify.app/",
     githubUrl: "https://github.com/Ahmedrashwan0/Hagoga.git",
@@ -152,7 +152,7 @@ const MyProjects = [
     title: "Movies app",
     description:
       "movie website with interactive user interfaces and a practical user experience The website was built using React.js and TailwindCSS.",
-    image: "../../public/Projcets/project3.png",
+    image: "../../public/project3.png",
     tags: ["React JS", "MUI"],
     demoUrl: "https://movies-app000.netlify.app/",
     githubUrl: "https://github.com/Ahmedrashwan0/movies-app.git",
@@ -162,7 +162,7 @@ const MyProjects = [
     title: "Crud Operations",
     description:
       "CRUD OPerations website as part of a team of 5 members during the Web Masters training program. The website features interactive user interfaces and a practical user experience, built using React.js and TailwindCSS.",
-    image: "../../public/Projcets/project4.png",
+    image: "../../public/project4.png",
     tags: ["React JS", "Tailwind CSS"],
     demoUrl: "https://crud-seven-wheat.vercel.app/",
     githubUrl: "https://github.com/Ftmamhmod/Crud-Operations.git",
