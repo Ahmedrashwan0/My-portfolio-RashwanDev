@@ -28,7 +28,7 @@ const Home = () => {
         src={Gradient}
         alt="Gradient-img"
       />
-      <div className="h-0 w-[1200px] absolute top-[50%] right-[-5%] shadow-[0_0_900px_20px_#ff5e00] -rotate-30 -z-10"></div>
+      <div className="h-0 w-[1200px] absolute top-[50%] right-[-5%] shadow-[0_0_900px_20px_#f54900] -rotate-30 -z-10"></div>
 
       <main>
       <Suspense fallback={<Loading/>}> <Header /> </Suspense> 

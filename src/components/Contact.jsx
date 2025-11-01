@@ -169,7 +169,7 @@ const Contact = () => {
                   className=" block text-sm font-medium mb-2"
                   htmlFor="phone"
                 >
-                  Phone Numder{" "}
+                  Phone Number{" "}
                 </label>
                 <input
                   id="email"
@@ -180,7 +180,7 @@ const Contact = () => {
                   value={phone}
                   required
                   className="w-full  px-4 py-3 rounded-md border-gray-400 bg-gray-950 focus:ring-2 focus:outline-hidden focus:ring-primary "
-                  placeholder="Phone Numder"
+                  placeholder="Phone Number"
                 />
               </div>
 
