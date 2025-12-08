@@ -21,7 +21,7 @@ const Hero = () => {
         <div className="flex gap-4 mt-8">
           <a
             className=" flex items-center gap-2  border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 hover:bg-[#1a1a1a]"
-            href="https://drive.google.com/file/d/1M0d_dFzd72YxC1IzbXCOKzAE2MzYdhAb/view?usp=sharing"
+            href="https://drive.google.com/file/d/1BhOzSKw9jlhrjZB54vYCzN64h1N1gZ60/view?usp=sharing"
           >
             <span>
               <SiReaddotcv />
