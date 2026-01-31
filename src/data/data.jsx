@@ -16,7 +16,7 @@ import { VscVscodeInsiders } from "react-icons/vsc";
 /**nav items */
 const navItems = [
   {
-    text: "Hime",
+    text: "Home",
     href: "#home",
     aos: "fade-down",
     aosEasing: "linear",

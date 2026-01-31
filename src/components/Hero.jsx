@@ -16,7 +16,7 @@ const Hero = () => {
           Hey! It's Ahmed Rashwan
         </h1>
         <p className="text-base  sm:text-lg tracking-wider text-gray-400 max-w-100 lg:max-w-120">
-          🚀 Frontend Engineer (React.js | Next.js)
+          🚀 Frontend Developer (React.js | Next.js)
         </p>
         <div className="flex gap-4 mt-8">
           <a

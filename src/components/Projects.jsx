@@ -20,7 +20,7 @@ const Projects = () => {
           data-aos-duration="500"
           className=" text-center mb-12 max-w-2xl mx-auto"
         >
-          Here are some of recent projects. Eech project was careflly crafed
+          Here are some of recent projects. Eech project was careflly crafted
           with attention to detail, performance, and user experience.
         </p>
 
